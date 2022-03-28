@@ -10,6 +10,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types: []
 ocw_type: OCWImage
+parent_uid: null
 resourcetype: Image
 title: Zebrafish
 uid: 3cce28a4-2df9-82d3-9e13-5c3efdc0e023
