@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This section provides information on reading assignments, a written paper,
+  and oral presentation.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
-parent_uid: null
 title: Assignments
 uid: 6d66db42-c655-6818-779c-81099afe4dd3
 ---
