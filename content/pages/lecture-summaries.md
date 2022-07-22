@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the information on the lecture sessions of the
+  course, including lecture topics and detailed summaries.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Summaries
 uid: 0dfb11ff-2041-5830-6942-7d24b33fd9d2
 ---
@@ -304,7 +309,7 @@ Individuals with Marfan's syndrome exhibit muscle deterioration and an inability
 Oral presentations
 {{< tdclose >}}
 {{< tdopen >}}
-Each student will give an oral presentation about an article selected from the List of Papers on the [assignments]({{< baseurl >}}/pages/assignments) page.
+Each student will give an oral presentation about an article selected from the List of Papers on the {{% resource_link 6d66db42-c655-6818-779c-81099afe4dd3 "assignments" %}} page.
 {{< tdclose >}}
 
 {{< trclose >}}

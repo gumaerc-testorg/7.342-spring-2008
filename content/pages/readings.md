@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides reading assignments for the course lectures. Students
+  are expected to come to class prepared to discuss the assigned articles.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 29368c50-0077-6402-eec6-d7a4837f5de9
 ---
