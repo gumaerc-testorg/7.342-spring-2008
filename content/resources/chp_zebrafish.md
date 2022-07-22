@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Zebrafish
 uid: 3cce28a4-2df9-82d3-9e13-5c3efdc0e023
 ---
 Zebra danios, or zebrafish, can regenerate several tissues, including fins, skin, and the heart. (Photograph courtesy of MacAnthony on Flickr.)
-
